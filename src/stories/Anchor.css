@@ -1,0 +1,35 @@
+.storybook-link {
+  font-family: "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  line-height: 1;
+}
+.storybook-link--primary {
+  color: #3e3ee9;
+  text-decoration: none;
+}
+.storybook-link--primary:active {
+  opacity: 0.5;
+}
+.storybook-link--primary:hover {
+  opacity: 0.7;
+}
+.storybook-link--secondary {
+  color: dimgray;
+  text-decoration: none;
+}
+.storybook-link--secondary:hover {
+  opacity: 0.7;
+}
+.storybook-link--secondary:active {
+  opacity: 0.5;
+}
+.storybook-link--small {
+  font-size: 12px;
+}
+.storybook-link--medium {
+  font-size: 14px;
+  padding: 11px 20px;
+}
+.storybook-link--large {
+  font-size: 16px;
+}
